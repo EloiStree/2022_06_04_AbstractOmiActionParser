@@ -50,6 +50,17 @@ Un personne doit savoir facilement ajouter son propre code dans l'application:
 Note:
 - ⚔
 
+- 🎲 Lib
+  - 🎲{0123456789_}
+  - 🎲Regex{0-9a-Z}
+  - 🎲AlphaNum
+  - 🎲🌐Name  Fetch random in a given collection of web api
+  - 🎲Name   Fetch random in a given collection of name
+  - 🎲🌐Mail 
+  - 🎲Mail
+  - 🎲📚FR
+  - 🎲📚DE
+  - 🎲📚Germany
 
 What should I use to translate:
 Command line macro:nameofthemacrotolaunch
