@@ -43,6 +43,7 @@ Un personne doit savoir facilement ajouter son propre code dans l'application:
 - 📋>📮🧍Eloi
 - 🎤Last>🔎
 - 🔎(Putin)
+  - 🔎Youtube:Rick_Roll
 
 -🔒Main>📋 80> CTRL+V
 -📋>🔐>📋  set the key of the current locker and write in the clipboard the corresponding password
@@ -55,14 +56,27 @@ Note:
   - 🎲Regex{0-9a-Z}
   - 🎲AlphaNum
   - 🎲🌐Name  Fetch random in a given collection of web api
+  - 🎲🌐Name{Female,1990}  Fetch random in a given collection of web api
   - 🎲Name   Fetch random in a given collection of name
   - 🎲🌐Mail 
   - 🎲Mail
   - 🎲📚FR
   - 🎲📚DE
   - 🎲📚Germany
+  - 🎲🔗{Line}
+  - 🎲🔗{Word}
+  - 🎲🔗{Char}
+
 - 📋HelloWorld>LUA 
 - 🖹PyHelloWorld>Python
+-📝🕑{hh:mm} >⌨️
+-📝📅{Day}>⌨️
+-📝📅{yyyy/mm/dd}>⌨️
+-📋>B64_TXT>
+-📋>B64|Txt>📋
+-📋>Txt>B64>📋
+-📋>H256>📋
+- 5$>🪙ETH>📋
 
 
 - Write some text ✂️>🖧|OmiSecondaryComputer   Envoyer à l'interpreter du second ordinateur une instructionc copier coller sur cette ordinateur
@@ -72,7 +86,11 @@ Note:
 
 What should I use to translate:
 Command line macro:nameofthemacrotolaunch
-Idea: ⚙🚀🎬📜⚡♨📝
+Idea: ⚙🚀🎬📜⚡♨ 
+-🚀OpenWowMultiAccount
+-📜SayHelloInChat
+- ⚙SetupConfig
+- 🎬PlayScenario
 
 
 Question to myself should I attack variable ...
