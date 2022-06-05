@@ -10,6 +10,13 @@ For example: WOMI is use here for 🐁◲800:40 but could be use to 🔈0.5 or �
 - 📷🗔Wow>🗁Screenshot
 - 📷💻Main>🗁Screenshot
 
+- 🎲(0,100)  Do a random between 0,100
+- 🌏⌚+2(Hour,Minute) >🎤Alexa  Ask what time it is on the global at country +2h and to make it read to Alexa  
+
+Note:
+- ⚔
+
+
 --------------------------
 # Abstract Omi Action Parser
 
