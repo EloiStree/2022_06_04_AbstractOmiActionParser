@@ -61,7 +61,8 @@ Note:
   - 🎲📚FR
   - 🎲📚DE
   - 🎲📚Germany
-
+- 📋HelloWorld>LUA 
+- 🖹PyHelloWorld>Python
 What should I use to translate:
 Command line macro:nameofthemacrotolaunch
 Idea: ⚙🚀🎬📜⚡♨📝
