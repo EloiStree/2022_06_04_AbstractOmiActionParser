@@ -13,10 +13,8 @@ For example: WOMI is use here for 🐁◲800:40 but could be use to 🔈0.5 or �
 - 🔗Eloistree.com> >🖨️
 - RSS:MyReddit>🖨️ 80> IFTTT:AmAwake
 - 🔒Main>⌨️
-
 - 🎲(0,100)  Do a random between 0,100
 - 🌏⌚+2(Hour,Minute) >🎤Alexa  Ask what time it is on the global at country +2h and to make it read to Alexa  
-
 -📋1↳🍪ToDoList store the clipboard in a app half ram, half file state
 
 Injection in app et out of app:
