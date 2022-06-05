@@ -77,7 +77,24 @@ Note:
 -📋>Txt>B64>📋
 -📋>H256>📋
 - 5$>🪙ETH>📋
+- 🎵 Leroy 
+-🔗Fresh9Gag>PNG>📋
+-🔗TodayGoogle>JPEG>📋
+-🖫
+-💻❗ Send notification pop up on the computer
+🎹
+- "A">ᛒArduino  send char a to bluetooh arduino
+- "Hello">ᛒArduino  send string hello to bluetooh arduino
+- "Hello">ᛒArduino  send string hello to bluetooh arduino
+- "Hello">🖧|ArduinoOne  send hello to an abstract connection that can be arduino  call arduinoone
+📡🗜🧰 
 
+- 🤬   Easter egg : random trash talk in any language
+  - 🤬{JP,HARD}   Easter egg : random trash talk in any language
+  - 🤬{USA,SOFT}   Easter egg : random trash talk in any language
+
+-🍆{W,Word} 
+-🍆{M,Random}   
 
 - Write some text ✂️>🖧|OmiSecondaryComputer   Envoyer à l'interpreter du second ordinateur une instructionc copier coller sur cette ordinateur
   - Just the idea that I could have that macro is mind blowing.
