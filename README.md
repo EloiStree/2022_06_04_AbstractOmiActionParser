@@ -1,3 +1,12 @@
+🚧 Note to myself.
+The use of a tool that convert shortcut line composed of grammar token & Unicode token to actions. Is reusable in many project.
+And maybe I should rename this repository or make a dependency.
+
+For example: WOMI is use here for 🐁◲800:40 but could be use to 🔈0.5 or 📋>🗁TextArchive
+- 📷🗔Wow>🗁Screenshot
+- 📷💻Main>🗁Screenshot
+
+--------------------------
 # Abstract Omi Action Parser
 
 Unicode used: ➤ ☗ | ↓ ← → ↑ _ ‾ ∨ ∧ ¬ ⊗ ≡ ≤ ≥ ⌃ ⌄ ⊓⇅ ⊔⇵ ⊏ ⊐ ↱↳ ∑ -no unity ⤒ ⤓ ⌈ ⌊ 🀲 🀸 ⌛ ⏰ ▸ ▹ 🐁 🖱 💾 ↕ ♺ 💻 🗔 🖧 ◩◪⬔⬕⬓⬒◧◨◰◱◲◳⯐
