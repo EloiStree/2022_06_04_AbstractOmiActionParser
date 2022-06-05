@@ -63,9 +63,17 @@ Note:
   - 🎲📚Germany
 - 📋HelloWorld>LUA 
 - 🖹PyHelloWorld>Python
+
+
+- Write some text ✂️>🖧|OmiSecondaryComputer   Envoyer à l'interpreter du second ordinateur une instructionc copier coller sur cette ordinateur
+  - Just the idea that I could have that macro is mind blowing.
+![Mind blow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rV0IBxo1PxdmgQIlOidTpAfjfdA4qoqzNahFOpCF63zTVMcHzvB7qssoA7sWUsr3_UY&usqp=CAU)
+
+
 What should I use to translate:
 Command line macro:nameofthemacrotolaunch
 Idea: ⚙🚀🎬📜⚡♨📝
+
 
 Question to myself should I attack variable ...
 🎚Volume:0.5 
