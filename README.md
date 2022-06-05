@@ -3,6 +3,10 @@ The use of a tool that convert shortcut line composed of grammar token & Unicode
 And maybe I should rename this repository or make a dependency.
 
 For example: WOMI is use here for 🐁◲800:40 but could be use to 🔈0.5 or 📋>🗁TextArchive
+- 📋↱🖹TextArchive Appent clipboard at start
+- 📋↳🖹TextArchive Append clipboard at end
+- 📋>🖹TextArchive set text file with clipboard
+- 🖹TextArchive>📋 set text file with clipboard
 - 📷🗔Wow>🗁Screenshot
 - 📷💻Main>🗁Screenshot
 
