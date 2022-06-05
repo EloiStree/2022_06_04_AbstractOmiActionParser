@@ -32,8 +32,8 @@ Un personne doit savoir facilement ajouter son propre code dans l'application:
 - g🗺️Japon  open google map focusing japon
 - 📋>📖 Open dictionnary with clipboard content
 - ✂️>💬(FR,EN,Google)  Cut the selected text and send it to google to translate
-- ✂️>💬(FR,EN,Default)  Cut the selected text and send it to google to translate
-
+- >💬(FR,EN,Default)  Cut the selected text and send it to google to translate
+-✂️>💬(FR,EN,Default)>🤖🎤
 
 Note:
 - ⚔
