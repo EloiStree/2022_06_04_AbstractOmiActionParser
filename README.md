@@ -33,8 +33,27 @@ Un personne doit savoir facilement ajouter son propre code dans l'application:
 - >💬(FR,EN,Default)  Cut the selected text and send it to google to translate
 -✂️>💬(FR,EN,Default)>🤖🎤
 
+-Youtube:EloiStree  Cerche si il y a un FetchId qui correspond à EloiStree localement, sinon fait une recherhe youtube.
+-Youtube:IPenser
+-YT:Creator:Eloi
+-YT:Search:Eloi
+
+- 📋>🖧|MainComputer>📋
+  - 🖧|MainComputer->In 5000|womi:📋80>
+- 📋>📮🧍Eloi
+- 🎤Last>🔎
+- 🔎(Putin)
+
+-🔒Main>📋 80> CTRL+V
+-📋>🔐>📋  set the key of the current locker and write in the clipboard the corresponding password
+-💻👀>🔒>📋  Look for app context and send the info to locker that if found will set the clipboard with password
 Note:
 - ⚔
+
+
+What should I use to translate:
+Command line macro:nameofthemacrotolaunch
+Idea: ⚙🚀🎬📜⚡♨📝
 
 Question to myself should I attack variable ...
 🎚Volume:0.5 
