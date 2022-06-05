@@ -26,3 +26,19 @@ Malus: More you use it, more we store text in the RAM.
 - " 🐁1◱800:900 " move at Main Screen 800: 900 px
 - " 🐁2◲50:0.1 " move at Second Screen 50px left of right border and 0.1 percent of top from bottom border
 - " 🐁3◳800:900 " move at Third Screen 800 left to right: 900 px top down
+
+🎘 Send Midi note to window default
+♩ 
+- 🎤 Request your default "Jarvice" to say an sentence; 
+- 🎮 Simulate a xbox controler move if you have install the driver to simulate one
+
+# Post Message
+Not sure if there is the option on mac and linux, but on window you can send send event of mouse or key stroke to the system and let's the application catch it.
+Or you can directly target the application and send a kind of "fake" message.
+Bonus:
+- You don't need focus for keystroke
+- You don't need to move your mouse for mouse action ( but still the app focus)
+Malus: 
+- Not recognize by all application
+- Could lead to ban automatic detection on some game 
+🖅📮✉
